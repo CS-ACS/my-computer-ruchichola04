@@ -1,4 +1,6 @@
 # My Computer
+
+***
 ## `Computer Specs`
 1. *Brand and model name/number*
 -  HP Probook 440 G7
@@ -14,6 +16,7 @@
 - Bluetooth Device (Personal Area Network)
 7. *Ports*
 - I have got 3 USB ports, 1 HDMI port, HP ENVY Ethernet Port, USB type C, and a microphone-in port.
+---
 ## `Commentary`
 1. A brief description of your relationship to your computer. Do you like it, or not? What is your history with this computer and/or what is the computer's history? One or two sentences will do.
 - I have had this laptop for at least 2 years, I really like it-- over the time I have personalized it and made it my own. This used to be my sister's laptop but I got it when remote learning started (she got a new one). The only thing I don't like about it is that it's battery drains very quickly.
