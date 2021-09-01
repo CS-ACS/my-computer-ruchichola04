@@ -2,17 +2,17 @@
 ## `Computer Specs`
 1. *Brand and model name/number*
 -  HP Probook 440 G7
-3. *Operating System*
+2. *Operating System*
 - 64-bit operating system, x64-based processor
-4. *CPU*
+3. *CPU*
 - Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
-5. *RAM*
+4. *RAM*
 - 8.00 GB (7.84 GB usable)
-6. *Storage*
+5. *Storage*
 - 89.0 GB used and 148 GB free
-7. *Wireless*
+6. *Wireless*
 - Bluetooth Device (Personal Area Network)
-8. *Ports*
+7. *Ports*
 - I have got 3 USB ports, 1 HDMI port, HP ENVY Ethernet Port, USB type C, and a microphone-in port.
 ## `Commentary`
 1. A brief description of your relationship to your computer. Do you like it, or not? What is your history with this computer and/or what is the computer's history? One or two sentences will do.
